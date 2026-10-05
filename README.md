@@ -7,6 +7,24 @@
 
 I'm a **software engineer with 5+ years of experience** building backend platforms, distributed systems, and infrastructure automation in **Go**. My work spans high-concurrency services, real-time data pipelines, and security engineering.
 
+## Selected work
+
+### [Somnium — Go backend](https://github.com/Danonika/somnium-hh-go)
+
+Backend for job listings, applications, and user authentication, with **gRPC and HTTP APIs** backed by **PostgreSQL**. Includes Protocol Buffers contracts, generated OpenAPI documentation, SQL migrations, and separate API, domain, and persistence packages.
+
+**Go · gRPC · Protocol Buffers · PostgreSQL**
+
+### [SAGE — open-source contribution](https://github.com/spcl/sage/pull/1)
+
+Merged C++ contribution to **Software-based Attestation for GPU Execution**: replaced a fixed PRNG seed with hardware-generated randomness in the checksum launcher.
+
+[View merged contribution →](https://github.com/spcl/sage/pull/1)
+
+### [IoT security research](https://doi.org/10.3390/app15179691)
+
+Co-author of **A Survey of Cross-Layer Security for Resource-Constrained IoT Devices**, published in *Applied Sciences*, 15(17), 9691 (2025).
+
 ## Core toolkit
 
 | Area | Technologies |
@@ -19,18 +37,7 @@ I'm a **software engineer with 5+ years of experience** building backend platfor
 
 I care about concurrency, API design, profiling, and making systems easier to test and operate.
 
-## Selected public projects
-
-| Project | What it explores | Built with |
-| :--- | :--- | :--- |
-| **[Forum](https://github.com/Danonika/Forum)** | A discussion platform with threads, reactions, user accounts, and avatars. | Go · HTML · CSS · JavaScript |
-| **[net-cat](https://github.com/Danonika/net-cat)** | A centralized terminal chat application using TCP sockets. | Go |
-| **[ls-golang](https://github.com/Danonika/ls-golang)** | A Go implementation of the Unix `ls` command. | Go |
-| **[Printf-C](https://github.com/Danonika/Printf-C)** | An implementation of `printf`, exploring formatted output in C. | C |
-
-## Research & background
-
-Co-author of **[A Survey of Cross-Layer Security for Resource-Constrained IoT Devices](https://doi.org/10.3390/app15179691)**, published in *Applied Sciences*, 15(17), 9691 (2025).
+## Background
 
 Bachelor's degree in **Information Security Technologies**, Eurasian National University. Competitive programming background with awards at the **ICPC Northern Eurasian Finals** and national and international informatics olympiads.
 
