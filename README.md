@@ -40,6 +40,17 @@ Co-author of **A Survey of Cross-Layer Security for Resource-Constrained IoT Dev
 
 I care about concurrency, API design, profiling, and making systems easier to test and operate.
 
+## GitHub stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Danonika&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;hide=stars,contribs&amp;show=prs_merged&amp;commits_year=2026&amp;custom_title=Public%20GitHub%20stats&amp;theme=github_dark">
+  <img src="https://github-stats-extended.vercel.app/api?username=Danonika&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;hide=stars,contribs&amp;show=prs_merged&amp;commits_year=2026&amp;custom_title=Public%20GitHub%20stats&amp;theme=default" alt="Public GitHub stats for Danonika: 2026 commits, pull requests, merged pull requests, and issues" width="467">
+</picture>
+
+Public activity; commit count covers 2026.
+
+[View the 2025 calendar artwork](https://github.com/Danonika?tab=overview&from=2025-01-01&to=2025-12-31) · [How it was made](calendar-art/README.md)
+
 ## Background
 
 Bachelor's degree in **Information Security Technologies**, Eurasian National University. Competitive programming background with awards at the **ICPC Northern Eurasian Finals** and national and international informatics olympiads.
