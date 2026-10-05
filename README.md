@@ -9,7 +9,7 @@ I'm a **software engineer with 5+ years of experience** building backend platfor
 
 ## Selected work
 
-### Hackathon Plugin — HackAlem Agent Kit
+### Building Agent Kit
 
 A complete plugin for AI-assisted development, built around a **Go MCP server**, **34 workflow skills**, and a **local control plane**. Connects research, planning, implementation, and verification in one development workflow.
 
@@ -43,11 +43,16 @@ I care about concurrency, API design, profiling, and making systems easier to te
 ## GitHub stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Danonika&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;hide=stars%2Ccontribs&amp;show=prs_merged&amp;commits_year=2026&amp;custom_title=Public%20GitHub%20stats&amp;theme=github_dark">
-  <img src="https://github-stats-extended.vercel.app/api?username=Danonika&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;hide=stars%2Ccontribs&amp;show=prs_merged&amp;commits_year=2026&amp;custom_title=Public%20GitHub%20stats&amp;theme=default" alt="Public GitHub stats for Danonika: 2026 commits, pull requests, merged pull requests, and issues" width="467">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Danonika&amp;card_width=480&amp;border_radius=12&amp;disable_animations=true&amp;hide=stars%2Ccommits%2Ccontribs&amp;show=prs_merged%2Call_time_contribs&amp;hide_rank=true&amp;show_icons=true&amp;custom_title=Open-source+collaboration&amp;text_bold=false&amp;number_format=long&amp;line_height=28&amp;bg_color=141e29&amp;title_color=6ad2cc&amp;text_color=ecf4f8&amp;icon_color=6ad2cc&amp;border_color=2a424a">
+  <img src="https://github-stats-extended.vercel.app/api?username=Danonika&amp;card_width=480&amp;border_radius=12&amp;disable_animations=true&amp;hide=stars%2Ccommits%2Ccontribs&amp;show=prs_merged%2Call_time_contribs&amp;hide_rank=true&amp;show_icons=true&amp;custom_title=Open-source+collaboration&amp;text_bold=false&amp;number_format=long&amp;line_height=28&amp;bg_color=f6f8fa&amp;title_color=137b80&amp;text_color=182c3b&amp;icon_color=137b80&amp;border_color=d8e4e6" alt="All-time public pull requests, merged pull requests, issues, and repositories contributed to" width="480">
 </picture>
 
-Public activity; commit count covers 2026.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Danonika&amp;card_width=480&amp;border_radius=12&amp;disable_animations=true&amp;layout=compact&amp;langs_count=6&amp;size_weight=0&amp;count_weight=1&amp;custom_title=Languages+by+repository&amp;bg_color=141e29&amp;title_color=6ad2cc&amp;text_color=ecf4f8&amp;icon_color=6ad2cc&amp;border_color=2a424a">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Danonika&amp;card_width=480&amp;border_radius=12&amp;disable_animations=true&amp;layout=compact&amp;langs_count=6&amp;size_weight=0&amp;count_weight=1&amp;custom_title=Languages+by+repository&amp;bg_color=f6f8fa&amp;title_color=137b80&amp;text_color=182c3b&amp;icon_color=137b80&amp;border_color=d8e4e6" alt="Languages across public repositories, weighted by repository count" width="480">
+</picture>
+
+All-time public collaboration. Languages are weighted by repository count; private code is not included.
 
 [View the 2025 calendar artwork](https://github.com/Danonika?tab=overview&from=2025-01-01&to=2025-12-31) · [How it was made](calendar-art/README.md)
 
