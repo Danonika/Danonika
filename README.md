@@ -2,7 +2,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/header-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/header-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Daniyar Kuttymbek — Software &amp; Security Engineer. Secure systems. Intelligent tools." width="100%">
+  <img src="assets/header-light.svg" alt="Daniyar Kuttymbek — Software Engineer. Secure systems. Intelligent tools." width="100%">
 </picture>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <a href="https://doi.org/10.3390/app15179691"><img alt="Research" src="https://img.shields.io/badge/Research-6750A4?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white"></a>
 </p>
 
-I'm **Daniyar**, a **Software & Security Engineer** with **5+ years of experience** in Go backends, distributed systems, and security automation. I build reliable services, practical security tools, and AI agent workflows that make complex work easier to inspect and verify.
+I'm **Daniyar**, a **Software Engineer** with **5+ years of experience** in Go backends, distributed systems, and security automation. I build reliable services, practical security tools, and AI agent workflows that make complex work easier to inspect and verify.
 
 ## What I'm building
 
