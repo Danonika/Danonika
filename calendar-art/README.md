@@ -4,7 +4,7 @@
 
 Created on 2026-10-05 as decorative profile artwork. These commits represent pixels, not software development performed in 2025.
 
-The lettering uses the pixel font and date planner from [GitArt](https://github.com/AxZyzz/GitArt), with tighter letter spacing and an apostrophe. The design fits within 48 columns. The previous “GIVE ME JOB” artwork was replaced; the profile’s pre-artwork history is preserved.
+The lettering uses the pixel font and date planner from [GitArt](https://github.com/AxZyzz/GitArt), with tighter letter spacing and an apostrophe. The design fits within 48 columns. The profile’s pre-artwork history is preserved.
 
 ![LET’S BUILD calendar design](preview.svg)
 
