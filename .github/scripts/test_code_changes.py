@@ -73,7 +73,7 @@ class AggregationTests(unittest.TestCase):
         for dark in (False, True):
             svg = render(stats, dark)
             root = ET.fromstring(svg)
-            self.assertEqual(root.attrib['viewBox'], '0 0 480 225')
+            self.assertEqual(root.attrib['viewBox'], '0 0 480 150')
             self.assertIn('+1,234,567', svg)
             self.assertIn('−89,012', svg)
             self.assertIn('2025-10-05 — 2026-10-05', svg)
