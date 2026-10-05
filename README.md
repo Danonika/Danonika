@@ -43,8 +43,8 @@ I care about concurrency, API design, profiling, and making systems easier to te
 ## GitHub stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Danonika&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;hide=stars,contribs&amp;show=prs_merged&amp;commits_year=2026&amp;custom_title=Public%20GitHub%20stats&amp;theme=github_dark">
-  <img src="https://github-stats-extended.vercel.app/api?username=Danonika&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;hide=stars,contribs&amp;show=prs_merged&amp;commits_year=2026&amp;custom_title=Public%20GitHub%20stats&amp;theme=default" alt="Public GitHub stats for Danonika: 2026 commits, pull requests, merged pull requests, and issues" width="467">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Danonika&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;hide=stars%2Ccontribs&amp;show=prs_merged&amp;commits_year=2026&amp;custom_title=Public%20GitHub%20stats&amp;theme=github_dark">
+  <img src="https://github-stats-extended.vercel.app/api?username=Danonika&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;hide=stars%2Ccontribs&amp;show=prs_merged&amp;commits_year=2026&amp;custom_title=Public%20GitHub%20stats&amp;theme=default" alt="Public GitHub stats for Danonika: 2026 commits, pull requests, merged pull requests, and issues" width="467">
 </picture>
 
 Public activity; commit count covers 2026.
