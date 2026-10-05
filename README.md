@@ -61,16 +61,15 @@ Co-author of [**A Survey of Cross-Layer Security for Resource-Constrained IoT De
 
 <!-- STATS:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Danonika&amp;card_width=480&amp;border_radius=12&amp;disable_animations=true&amp;hide=stars%2Ccommits%2Ccontribs&amp;show=prs_merged%2Call_time_contribs&amp;hide_rank=true&amp;show_icons=true&amp;custom_title=Open-source+collaboration&amp;text_bold=false&amp;number_format=long&amp;line_height=28&amp;bg_color=0b1220&amp;title_color=67e8f9&amp;text_color=eef6ff&amp;icon_color=67e8f9&amp;border_color=233950">
-  <img src="https://github-stats-extended.vercel.app/api?username=Danonika&amp;card_width=480&amp;border_radius=12&amp;disable_animations=true&amp;hide=stars%2Ccommits%2Ccontribs&amp;show=prs_merged%2Call_time_contribs&amp;hide_rank=true&amp;show_icons=true&amp;custom_title=Open-source+collaboration&amp;text_bold=false&amp;number_format=long&amp;line_height=28&amp;bg_color=f8fbff&amp;title_color=087fa3&amp;text_color=10283e&amp;icon_color=087fa3&amp;border_color=cddfed" alt="All-time public pull requests, merged pull requests, issues, and repositories contributed to" width="480">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/activity-dark.svg">
+  <img src="assets/stats/activity-light.svg" alt="All-time GitHub activity, including accessible private contributions" width="480">
 </picture>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Danonika&amp;card_width=480&amp;border_radius=12&amp;disable_animations=true&amp;layout=compact&amp;langs_count=6&amp;size_weight=0&amp;count_weight=1&amp;custom_title=Languages+by+repository&amp;bg_color=0b1220&amp;title_color=67e8f9&amp;text_color=eef6ff&amp;icon_color=67e8f9&amp;border_color=233950">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Danonika&amp;card_width=480&amp;border_radius=12&amp;disable_animations=true&amp;layout=compact&amp;langs_count=6&amp;size_weight=0&amp;count_weight=1&amp;custom_title=Languages+by+repository&amp;bg_color=f8fbff&amp;title_color=087fa3&amp;text_color=10283e&amp;icon_color=087fa3&amp;border_color=cddfed" alt="Languages across public repositories, weighted by repository count" width="480">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/languages-dark.svg">
+  <img src="assets/stats/languages-light.svg" alt="Languages across accessible public and private repositories, weighted by repository count" width="480">
 </picture>
 
-All-time public collaboration. Languages are weighted by repository count; private code is not included.
+<sub>Public + accessible private activity. Language shares are weighted by repository count. Updated daily via GitHub Actions. [Calendar artwork](calendar-art/README.md) is included in contribution totals.</sub>
 <!-- STATS:END -->
 
 <details>
