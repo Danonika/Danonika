@@ -143,11 +143,11 @@ Co-author of [**A Survey of Cross-Layer Security for Resource-Constrained IoT De
   <img src="assets/stats/activity-light.svg" alt="All-time GitHub activity, including accessible private contributions" width="480">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/languages-dark.svg">
-  <img src="assets/stats/languages-light.svg" alt="Languages across accessible public and private repositories, weighted by repository count" width="480">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/code-changes-dark.svg">
+  <img src="assets/stats/code-changes-light.svg" alt="Lines added and deleted over the past 12 months in authored commits across accessible public and private repositories" width="480">
 </picture>
 
-<sub>Public + accessible private activity. Language shares are weighted by repository count. Updated daily via GitHub Actions. [Calendar artwork](calendar-art/README.md) is included in contribution totals.</sub>
+<sub>Public + accessible private activity. Code changes cover authored, non-merge commits on default branches over the past 12 months. Updated daily. [How these stats are counted](assets/stats/README.md). [Calendar artwork](calendar-art/README.md) is included in contribution totals.</sub>
 <!-- STATS:END -->
 
 <details>
