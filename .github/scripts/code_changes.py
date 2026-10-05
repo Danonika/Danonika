@@ -133,19 +133,18 @@ def render(stats, dark=False):
     description = escape(f"{stats['additions']:,} lines added and {stats['deletions']:,} lines deleted. "
                          f"{period}. Authored non-merge commits on default branches; "
                          'accessible public and private, non-fork repositories.')
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="480" height="150" viewBox="0 0 480 150" role="img" aria-labelledby="title desc">
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="480" height="100" viewBox="0 0 480 100" role="img" aria-labelledby="title desc">
   <title id="title">Code changes · past 12 months</title>
   <desc id="desc">{description}</desc>
-  <rect x="0.5" y="0.5" width="479" height="149" rx="12" fill="#{bg}" stroke="#{border}"/>
+  <rect x="0.5" y="0.5" width="479" height="99" rx="12" fill="#{bg}" stroke="#{border}"/>
   <g font-family="Segoe UI, Ubuntu, sans-serif">
-    <text x="25" y="29" font-size="18" font-weight="600" fill="#{title}">Code changes</text>
-    <text x="25" y="47" font-size="11" fill="#{muted}">PAST 12 MONTHS · {period}</text>
-    <path d="M240 65 V110" stroke="#{border}"/>
-    <text x="25" y="87" font-size="{font_size}" font-weight="600" fill="#{added}">{plus}</text>
-    <text x="260" y="87" font-size="{font_size}" font-weight="600" fill="#{removed}">{minus}</text>
-    <text x="25" y="108" font-size="13" fill="#{muted}">lines added</text>
-    <text x="260" y="108" font-size="13" fill="#{muted}">lines deleted</text>
-    <text x="25" y="134" font-size="11" fill="#{muted}">Public + accessible private repositories</text>
+    <text x="25" y="26" font-size="18" font-weight="600" fill="#{title}">Code changes</text>
+    <text x="455" y="26" text-anchor="end" font-size="10" fill="#{muted}">12 MONTHS · {period}</text>
+    <path d="M240 43 V85" stroke="#{border}"/>
+    <text x="25" y="65" font-size="{font_size}" font-weight="600" fill="#{added}">{plus}</text>
+    <text x="260" y="65" font-size="{font_size}" font-weight="600" fill="#{removed}">{minus}</text>
+    <text x="25" y="85" font-size="13" fill="#{muted}">lines added</text>
+    <text x="260" y="85" font-size="13" fill="#{muted}">lines deleted</text>
   </g>
 </svg>
 '''
