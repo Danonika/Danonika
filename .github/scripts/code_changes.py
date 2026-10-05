@@ -162,7 +162,7 @@ def main():
     destination = Path('assets/stats')
     destination.mkdir(parents=True, exist_ok=True)
     for theme in ('light', 'dark'):
-        (destination / f'code-changes-{theme}.svg').write_text(render(stats, theme == 'dark'))
+        (destination / f'code-changes-compact-{theme}.svg').write_text(render(stats, theme == 'dark'))
     (destination / 'code-changes.json').write_text(json.dumps(stats, indent=2) + '\n')
     print(f"Published aggregate line changes from {stats['commits']} unique non-merge commits.")
 
