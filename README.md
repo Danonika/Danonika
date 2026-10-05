@@ -7,15 +7,6 @@
 
 I'm a **software engineer with 5+ years of experience** building backend platforms, distributed systems, and infrastructure automation in **Go**. My work spans high-concurrency services, real-time data pipelines, and security engineering.
 
-Currently, I'm a **Security Software Engineer at Offware**, building Go-based security automation and network tooling. I also co-author research on IoT security.
-
-## Engineering experience
-
-- **Security automation · Offware** — Go services, custom network handlers, proxies, and containerized workers for security testing.
-- **Real-time systems · PaloAlto Garage** — backend services, telemetry ingestion, and API design for GPS train tracking; standardized CI/CD and SQL migrations to reduce deployment time by 30%.
-- **Platform APIs · QazTrade** — backend validation, test automation, and API modules for digital government workflows.
-- **IoT infrastructure · Netmore** — ChirpStack/LoRaWAN microservices, REST and gRPC APIs, MQTT event streams, and PostgreSQL/Redis data processing.
-
 ## Core toolkit
 
 | Area | Technologies |
