@@ -9,17 +9,20 @@ I'm a **software engineer with 5+ years of experience** building backend platfor
 
 ## Selected work
 
-### [Somnium — Go backend](https://github.com/Danonika/somnium-hh-go)
+### Hackathon Plugin — HackAlem Agent Kit
 
-Backend for job listings, applications, and user authentication, with **gRPC and HTTP APIs** backed by **PostgreSQL**. Includes Protocol Buffers contracts, generated OpenAPI documentation, SQL migrations, and separate API, domain, and persistence packages.
+A complete plugin for AI-assisted development, built around a **Go MCP server**, **34 workflow skills**, and a **local control plane**. Connects research, planning, implementation, and verification in one development workflow.
 
-**Go · gRPC · Protocol Buffers · PostgreSQL**
+- **Workflow orchestration:** staged build plans, specialized research and coding skills, session hooks, and handoffs between agents.
+- **Document and data tools:** PDF and spreadsheet processing, document search, telemetry analysis, charts, and generated reports.
+- **Session management:** a CLI, background daemon, terminal dashboard, SQLite session storage, and isolated Git worktrees.
+- **Routing and memory:** experimental capability routing using keywords, embeddings, and learned feedback, plus durable project learnings.
+- **Quality and evaluation:** build and test gates, security review, evaluation aggregation and calibration, and frozen demo bundles.
+- **Packaging and integrations:** adapters for Codex, Claude Code, OpenCode, and Cursor; cross-platform setup and repair; optional PostgreSQL and MinIO storage.
 
-### [SAGE — open-source contribution](https://github.com/spcl/sage/pull/1)
+**Go · MCP · SQLite · PostgreSQL · MinIO · Docker**
 
-Merged C++ contribution to **Software-based Attestation for GPU Execution**: replaced a fixed PRNG seed with hardware-generated randomness in the checksum launcher.
-
-[View merged contribution →](https://github.com/spcl/sage/pull/1)
+*Source repository is currently private.*
 
 ### [IoT security research](https://doi.org/10.3390/app15179691)
 
