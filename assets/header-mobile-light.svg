@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="270" viewBox="0 0 600 270" role="img" aria-labelledby="title desc">
+<title id="title">Daniyar Kuttymbek — Software &amp; Security Engineer</title>
+<desc id="desc">Go, distributed systems, applied security, and AI agent tooling.</desc>
+<defs><linearGradient id="bg"><stop stop-color="#f8fbff"/><stop offset="1" stop-color="#e8f4fa"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#bfd6e5" stroke-opacity=".2" stroke-width=".7"/></pattern></defs>
+<rect x="1" y="1" width="598" height="268" rx="16" fill="url(#bg)" stroke="#cddfed"/>
+<rect x="1" y="1" width="598" height="268" rx="16" fill="url(#grid)"/>
+<path d="M32 46h22" stroke="#087fa3" stroke-width="3"/>
+<text x="66" y="51" fill="#48677e" font-family="ui-monospace,Consolas,monospace" font-size="13" letter-spacing="2">DANONIKA / SYSTEMS + SECURITY</text>
+<text x="32" y="113" fill="#10283e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="40" font-weight="700" letter-spacing="-1.7">Daniyar Kuttymbek</text>
+<text x="33" y="153" fill="#087fa3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="500">Software &amp; Security Engineer</text>
+<text x="33" y="211" fill="#48677e" font-family="ui-monospace,Consolas,monospace" font-size="14" letter-spacing=".2">Secure systems. Intelligent tools.</text>
+
+</svg>

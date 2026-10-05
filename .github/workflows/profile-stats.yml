@@ -34,7 +34,7 @@ jobs:
           card: stats
           core_version: 2.2.1
           fail_on_error: true
-          options: username=Danonika&hide=stars,commits,contribs&show=contributions,prs_merged,all_time_contribs&contribs_include_own_repos=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_rank=true&show_icons=true&custom_title=GitHub%20activity&card_width=480&border_radius=12&disable_animations=true&text_bold=false&number_format=long&line_height=28&bg_color=f6f8fa&title_color=137b80&text_color=182c3b&icon_color=137b80&border_color=d8e4e6
+          options: username=Danonika&hide=stars,commits,contribs&show=contributions,prs_merged,all_time_contribs&contribs_include_own_repos=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_rank=true&show_icons=true&custom_title=GitHub%20activity&card_width=480&border_radius=12&disable_animations=true&text_bold=false&number_format=long&line_height=28&bg_color=f8fbff&title_color=087fa3&text_color=10283e&icon_color=087fa3&border_color=cddfed
           path: assets/stats/activity-light.svg
           token: ${{ secrets.STATS_TOKEN }}
 
@@ -44,7 +44,7 @@ jobs:
           card: stats
           core_version: 2.2.1
           fail_on_error: true
-          options: username=Danonika&hide=stars,commits,contribs&show=contributions,prs_merged,all_time_contribs&contribs_include_own_repos=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_rank=true&show_icons=true&custom_title=GitHub%20activity&card_width=480&border_radius=12&disable_animations=true&text_bold=false&number_format=long&line_height=28&bg_color=141e29&title_color=6ad2cc&text_color=ecf4f8&icon_color=6ad2cc&border_color=2a424a
+          options: username=Danonika&hide=stars,commits,contribs&show=contributions,prs_merged,all_time_contribs&contribs_include_own_repos=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_rank=true&show_icons=true&custom_title=GitHub%20activity&card_width=480&border_radius=12&disable_animations=true&text_bold=false&number_format=long&line_height=28&bg_color=0b1220&title_color=67e8f9&text_color=eef6ff&icon_color=67e8f9&border_color=233950
           path: assets/stats/activity-dark.svg
           token: ${{ secrets.STATS_TOKEN }}
 
@@ -54,7 +54,7 @@ jobs:
           card: top-langs
           core_version: 2.2.1
           fail_on_error: true
-          options: username=Danonika&layout=compact&langs_count=8&size_weight=0&count_weight=1&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&custom_title=Languages%20across%20my%20repos&card_width=480&border_radius=12&disable_animations=true&bg_color=f6f8fa&title_color=137b80&text_color=182c3b&border_color=d8e4e6
+          options: username=Danonika&layout=compact&langs_count=8&size_weight=0&count_weight=1&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&custom_title=Languages%20across%20my%20repos&card_width=480&border_radius=12&disable_animations=true&bg_color=f8fbff&title_color=087fa3&text_color=10283e&border_color=cddfed
           path: assets/stats/languages-light.svg
           token: ${{ secrets.STATS_TOKEN }}
 
@@ -64,7 +64,7 @@ jobs:
           card: top-langs
           core_version: 2.2.1
           fail_on_error: true
-          options: username=Danonika&layout=compact&langs_count=8&size_weight=0&count_weight=1&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&custom_title=Languages%20across%20my%20repos&card_width=480&border_radius=12&disable_animations=true&bg_color=141e29&title_color=6ad2cc&text_color=ecf4f8&border_color=2a424a
+          options: username=Danonika&layout=compact&langs_count=8&size_weight=0&count_weight=1&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&custom_title=Languages%20across%20my%20repos&card_width=480&border_radius=12&disable_animations=true&bg_color=0b1220&title_color=67e8f9&text_color=eef6ff&border_color=233950
           path: assets/stats/languages-dark.svg
           token: ${{ secrets.STATS_TOKEN }}
 
