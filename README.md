@@ -40,22 +40,48 @@ Co-author of [**A Survey of Cross-Layer Security for Resource-Constrained IoT De
 ## My toolbox
 
 <p>
+<strong>Languages</strong><br>
 <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white">
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white">
 <img alt="Rust" src="https://img.shields.io/badge/Rust-30363D?style=flat-square&amp;logo=rust&amp;logoColor=white">
+</p>
+
+<p>
+<strong>Backend &amp; data</strong><br>
+<img alt="REST" src="https://img.shields.io/badge/REST-087FA3?style=flat-square">
+<img alt="gRPC" src="https://img.shields.io/badge/gRPC-087FA3?style=flat-square">
+<img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-087FA3?style=flat-square">
+<img alt="MQTT" src="https://img.shields.io/badge/MQTT-087FA3?style=flat-square">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white">
 <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white">
 <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white">
+</p>
+
+<p>
+<strong>Platform</strong><br>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white">
 <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black">
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white">
-<img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&amp;logo=prometheus&amp;logoColor=white">
 </p>
 
-**Backend:** REST, gRPC, WebSocket, MQTT · **Observability:** Grafana, ELK, Jaeger<br>
-**Focus:** concurrency, API design, profiling, testing, and distributed system design.
+<p>
+<strong>Observability</strong><br>
+<img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&amp;logo=prometheus&amp;logoColor=white">
+<img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&amp;logo=grafana&amp;logoColor=white">
+<img alt="ELK" src="https://img.shields.io/badge/ELK-005571?style=flat-square&amp;logo=elasticstack&amp;logoColor=white">
+<img alt="Jaeger" src="https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square&amp;logo=jaeger&amp;logoColor=black">
+</p>
+
+<p>
+<strong>Engineering</strong><br>
+<img alt="Concurrency" src="https://img.shields.io/badge/Concurrency-30475E?style=flat-square">
+<img alt="API Design" src="https://img.shields.io/badge/API%20Design-30475E?style=flat-square">
+<img alt="Profiling" src="https://img.shields.io/badge/Profiling-30475E?style=flat-square">
+<img alt="Testing" src="https://img.shields.io/badge/Testing-30475E?style=flat-square">
+<img alt="Distributed Systems" src="https://img.shields.io/badge/Distributed%20Systems-30475E?style=flat-square">
+</p>
 
 ## GitHub stats
 
