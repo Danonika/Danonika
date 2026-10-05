@@ -17,8 +17,8 @@ block = '''<!-- STATS:START -->
   <img src="assets/stats/activity-light.svg" alt="All-time GitHub activity, including accessible private contributions" width="480">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/code-changes-dark.svg">
-  <img src="assets/stats/code-changes-light.svg" alt="Lines added and deleted over the past 12 months in authored commits across accessible public and private repositories" width="480">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/code-changes-dark.svg?layout=100">
+  <img src="assets/stats/code-changes-light.svg?layout=100" alt="Lines added and deleted over the past 12 months in authored commits across accessible public and private repositories" width="480">
 </picture>
 
 <sub>Public + accessible private activity. Code changes cover authored, non-merge commits on default branches over the past 12 months. Updated daily. [How these stats are counted](assets/stats/README.md). [Calendar artwork](calendar-art/README.md) is included in contribution totals.</sub>
