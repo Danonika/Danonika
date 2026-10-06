@@ -1,4 +1,4 @@
-<img src="assets/header-cars-cfb82799fba9.svg" alt="Daniyar Kuttymbek — Software Engineer. Go, distributed systems, and security automation. Animated Cars background." width="720">
+<img src="assets/header-cars-original-ae08c7b51e12.svg" alt="Daniyar Kuttymbek — Software Engineer. Go, distributed systems, and security automation. Animated Cars background." width="720">
 
 <sub>Rendered with <a href="readme-motion/cars-header/README.md">README Motion</a> · Original edit by <a href="https://www.tiktok.com/@hudsonfilms__/video/7523135205314514183">@hudsonfilms__</a></sub>
 
