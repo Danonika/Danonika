@@ -14,7 +14,7 @@ The same README banner rendered three ways. Each animation below runs directly i
 
 ## Native SVG
 
-![README Motion banner rendered with vector text and moving vector shapes](native.svg)
+![README Motion banner rendered with vector text and moving vector shapes](readme-motion-7ec4109090d0-01-dark.svg)
 
 ## Traced frames → animated SVG
 
