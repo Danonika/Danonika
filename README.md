@@ -1,6 +1,9 @@
-<img src="assets/header-cars-original-ae08c7b51e12.svg" alt="Daniyar Kuttymbek — Software Engineer. Go, distributed systems, and security automation. Animated Cars background." width="720">
-
-<sub>Rendered with <a href="readme-motion/cars-header/README.md">README Motion</a> · Original edit by <a href="https://www.tiktok.com/@hudsonfilms__/video/7523135205314514183">@hudsonfilms__</a></sub>
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/header-animated-mobile-dark.gif">
+  <source media="(max-width: 600px)" srcset="assets/header-animated-mobile-light.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-animated-dark.gif">
+  <img src="assets/header-animated-light.gif" alt="Daniyar Kuttymbek — Software Engineer. Secure systems. Intelligent tools." width="100%">
+</picture>
 
 <p align="center">
 <a href="https://linkedin.com/in/danonika"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
@@ -27,14 +30,6 @@ An agent toolkit designed to take a problem from its initial brief through resea
 Integrations: **Codex · Claude Code · OpenCode · Cursor**
 
 <sub>Actively developed. Source is currently private.</sub>
-
-### README Motion
-
-**Markdown → animated GitHub README.**
-
-A reusable CLI that renders ordinary Markdown over animated backgrounds, with native animated SVGs, light/dark themes, custom GIFs, and a readable text fallback. The generated images display directly in GitHub READMEs.
-
-[**View the animated README on GitHub →**](readme-motion/README.md) · [View its Markdown source](readme-motion/README.source.md) · [GIF → SVG comparison](readme-motion/comparison/README.md)
 
 ## Security engineering & research
 
