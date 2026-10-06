@@ -1,8 +1,8 @@
 {
   "generator": "readme-motion",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "source": "../README.source.md",
-  "source_sha256": "6956c2302006eda7acef50fa73f417232d63eb17d03b4d418a5025e074158baa",
+  "source_sha256": "d157322056d4d6a39ecf477456d89475a350a52dfdf8cbf7b260479c1a6e57d3",
   "config": {
     "background": "grid",
     "theme": "both",
@@ -10,27 +10,30 @@
     "max_height": 1200,
     "font_size": 22,
     "seconds": 4.0,
-    "fps": 10
+    "fps": 10,
+    "format": "svg"
   },
   "assets": [
     {
       "theme": "dark",
       "page": 1,
-      "gif": "assets/readme-motion-296524ab960b-01-dark.gif",
-      "poster": "assets/readme-motion-296524ab960b-01-dark.png",
+      "image": "assets/readme-motion-daaebba5f718-01-dark.svg",
+      "format": "svg",
+      "poster": "assets/readme-motion-daaebba5f718-01-dark.png",
       "width": 720,
       "height": 1157,
-      "bytes": 862283,
+      "bytes": 75553,
       "alt": "README Motion \u2014 section 1. Read the original Markdown using the link below."
     },
     {
       "theme": "light",
       "page": 1,
-      "gif": "assets/readme-motion-296524ab960b-01-light.gif",
-      "poster": "assets/readme-motion-296524ab960b-01-light.png",
+      "image": "assets/readme-motion-daaebba5f718-01-light.svg",
+      "format": "svg",
+      "poster": "assets/readme-motion-daaebba5f718-01-light.png",
       "width": 720,
       "height": 1157,
-      "bytes": 859497,
+      "bytes": 75553,
       "alt": "README Motion \u2014 section 1. Read the original Markdown using the link below."
     }
   ],

@@ -22,10 +22,10 @@ readme-motion build README.source.md \
 
 | Input | Output |
 | :--- | :--- |
-| Headings, lists and code | Animated GIF sections |
+| Headings, lists and code | Native SVG sections |
 | A local GIF or image | A custom background |
 | Long documents | Automatic pagination |
 
 > Run it locally. No account, API key, or document upload.
 
-[Read the source](README.source.md) · Built with Python and Pillow.
+[Read the source](README.source.md) · Built with Python, Pillow, and fonttools.
