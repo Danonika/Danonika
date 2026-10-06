@@ -31,6 +31,14 @@ Integrations: **Codex · Claude Code · OpenCode · Cursor**
 
 <sub>Actively developed. Source is currently private.</sub>
 
+### README Motion
+
+**Markdown → animated GitHub README.**
+
+A reusable CLI that renders ordinary Markdown over animated backgrounds, with light/dark themes, custom GIFs, and a readable text fallback. The generated images display directly in GitHub READMEs.
+
+[**View the animated README on GitHub →**](readme-motion/README.md) · [View its Markdown source](readme-motion/README.source.md)
+
 ## Security engineering & research
 
 My security work spans assessment automation, identity and authentication systems, network tooling, and security-aware infrastructure. I bring the same focus on reliability, observability, and verification to backend engineering.

@@ -1,0 +1,38 @@
+{
+  "generator": "readme-motion",
+  "version": "0.1.0",
+  "source": "../README.source.md",
+  "source_sha256": "6956c2302006eda7acef50fa73f417232d63eb17d03b4d418a5025e074158baa",
+  "config": {
+    "background": "grid",
+    "theme": "both",
+    "width": 720,
+    "max_height": 1200,
+    "font_size": 22,
+    "seconds": 4.0,
+    "fps": 10
+  },
+  "assets": [
+    {
+      "theme": "dark",
+      "page": 1,
+      "gif": "assets/readme-motion-2e148d1ab3b4-01-dark.gif",
+      "poster": "assets/readme-motion-2e148d1ab3b4-01-dark.png",
+      "width": 720,
+      "height": 1157,
+      "bytes": 862283,
+      "alt": "README Motion \u2014 section 1. Read the original Markdown using the link below."
+    },
+    {
+      "theme": "light",
+      "page": 1,
+      "gif": "assets/readme-motion-2e148d1ab3b4-01-light.gif",
+      "poster": "assets/readme-motion-2e148d1ab3b4-01-light.png",
+      "width": 720,
+      "height": 1157,
+      "bytes": 859497,
+      "alt": "README Motion \u2014 section 1. Read the original Markdown using the link below."
+    }
+  ],
+  "warnings": []
+}
