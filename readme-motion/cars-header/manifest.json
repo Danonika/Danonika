@@ -1,0 +1,21 @@
+{
+  "generator": "README Motion 0.2.0",
+  "asset": "assets/header-cars-cfb82799fba9.svg",
+  "source_sha256": "6e2296d9f07dab1f30cba006a527a6205642773ee1582d15a8ca73aeb7ee9fbe",
+  "excerpt_start_seconds": 3,
+  "duration_seconds": 2,
+  "fps": 8,
+  "palette_colors": 96,
+  "traced": {
+    "frames": 16,
+    "duration_ms": 2000.0,
+    "bytes": 4291667,
+    "paths": 8765,
+    "width": 400,
+    "height": 241
+  },
+  "header_width": 720,
+  "header_height": 300,
+  "bytes": 4318366,
+  "source_url": "https://www.tiktok.com/@hudsonfilms__/video/7523135205314514183"
+}
