@@ -1,6 +1,6 @@
 {
   "generator": "readme-motion",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "source": "../README.source.md",
   "source_sha256": "6956c2302006eda7acef50fa73f417232d63eb17d03b4d418a5025e074158baa",
   "config": {
@@ -16,8 +16,8 @@
     {
       "theme": "dark",
       "page": 1,
-      "gif": "assets/readme-motion-2e148d1ab3b4-01-dark.gif",
-      "poster": "assets/readme-motion-2e148d1ab3b4-01-dark.png",
+      "gif": "assets/readme-motion-296524ab960b-01-dark.gif",
+      "poster": "assets/readme-motion-296524ab960b-01-dark.png",
       "width": 720,
       "height": 1157,
       "bytes": 862283,
@@ -26,8 +26,8 @@
     {
       "theme": "light",
       "page": 1,
-      "gif": "assets/readme-motion-2e148d1ab3b4-01-light.gif",
-      "poster": "assets/readme-motion-2e148d1ab3b4-01-light.png",
+      "gif": "assets/readme-motion-296524ab960b-01-light.gif",
+      "poster": "assets/readme-motion-296524ab960b-01-light.png",
       "width": 720,
       "height": 1157,
       "bytes": 859497,
