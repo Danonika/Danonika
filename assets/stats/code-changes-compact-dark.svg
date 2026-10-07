@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="100" viewBox="0 0 480 100" role="img" aria-labelledby="title desc">
   <title id="title">Code changes · past 12 months</title>
-  <desc id="desc">90,666 lines added and 21,204 lines deleted. 2025-10-06 — 2026-10-06. Authored non-merge commits on default branches; accessible public and private, non-fork repositories.</desc>
+  <desc id="desc">96,080 lines added and 21,204 lines deleted. 2025-10-07 — 2026-10-07. Authored non-merge commits on default branches; accessible public and private, non-fork repositories.</desc>
   <rect x="0.5" y="0.5" width="479" height="99" rx="12" fill="#0b1220" stroke="#233950"/>
   <g font-family="Segoe UI, Ubuntu, sans-serif">
     <text x="25" y="26" font-size="18" font-weight="600" fill="#67e8f9">Code changes</text>
-    <text x="455" y="26" text-anchor="end" font-size="10" fill="#a8bbcf">12 MONTHS · 2025-10-06 — 2026-10-06</text>
+    <text x="455" y="26" text-anchor="end" font-size="10" fill="#a8bbcf">12 MONTHS · 2025-10-07 — 2026-10-07</text>
     <path d="M240 43 V85" stroke="#233950"/>
-    <text x="25" y="65" font-size="32" font-weight="600" fill="#3fb950">+90,666</text>
+    <text x="25" y="65" font-size="32" font-weight="600" fill="#3fb950">+96,080</text>
     <text x="260" y="65" font-size="32" font-weight="600" fill="#ff7b72">−21,204</text>
     <text x="25" y="85" font-size="13" fill="#a8bbcf">lines added</text>
     <text x="260" y="85" font-size="13" fill="#a8bbcf">lines deleted</text>
