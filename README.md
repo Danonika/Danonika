@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/header-motion-poster.png">
-  <img src="assets/header-motion.svg" alt="Daniyar Kuttymbek — Software Engineer. Secure systems. Intelligent tools." width="100%">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/header-motion-poster.png?v=ad569fe205b2">
+  <img src="assets/header-motion.svg?v=ad569fe205b2" alt="Daniyar Kuttymbek — Software Engineer. Secure systems. Intelligent tools." width="100%">
 </picture>
 
 <p align="center">
