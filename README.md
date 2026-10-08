@@ -1,8 +1,6 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/header-animated-mobile-dark.gif">
-  <source media="(max-width: 600px)" srcset="assets/header-animated-mobile-light.gif">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-animated-dark.gif">
-  <img src="assets/header-animated-light.gif" alt="Daniyar Kuttymbek — Software Engineer. Secure systems. Intelligent tools." width="100%">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/header-motion-poster.png">
+  <img src="assets/header-motion.svg" alt="Daniyar Kuttymbek — Software Engineer. Secure systems. Intelligent tools." width="100%">
 </picture>
 
 <p align="center">
