@@ -35,17 +35,23 @@ My security work spans assessment automation, identity and authentication system
 
 Co-author of [**A Survey of Cross-Layer Security for Resource-Constrained IoT Devices**](https://doi.org/10.3390/app15179691), published in *Applied Sciences* (2025).
 
-## Education
+<details>
+<summary><strong>Education</strong></summary>
 
 **Eurasian National University** · Astana, Kazakhstan<br>
-Bachelor of Information Security Technologies · September 2018–July 2022 · GPA 3.5/4.0
+Bachelor of Information Security Technologies · September 2018–July 2022
+
+</details>
 
 ## Competitive programming awards
 
-- **ICPC Northern Eurasian Finals** (2020–2023) — honorable mention and third-degree award.
-- **Kazakh Republic Olympiad in Informatics** (2015–2018) — one gold, two silver, and one bronze medal.
-- **Eurasian Olympiad in Informatics** (2015–2017) — one silver and two bronze medals.
-- **Zhautykov International Olympiad in Informatics** (2017) — bronze medal.
+At the **ICPC Northern Eurasian Finals** (2020–2023), I earned an honorable mention and a third-degree award.
+
+| Informatics olympiad | Years | Medals |
+| --- | --- | --- |
+| Kazakh Republic | 2015–2018 | 1 gold, 2 silver, 1 bronze |
+| Eurasian | 2015–2017 | 1 silver, 2 bronze |
+| Zhautykov International | 2017 | 1 bronze |
 
 ## My toolbox
 
