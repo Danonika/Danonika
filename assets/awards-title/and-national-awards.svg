@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="28" viewBox="0 0 200 28">
+  <title>and national awards</title>
+  <style>
+    text { fill: #1f2328; font: 600 21px system-ui, sans-serif; }
+    @media (prefers-color-scheme: dark) { text { fill: #f0f6fc; } }
+  </style>
+  <text x="0" y="21" textLength="198" lengthAdjust="spacingAndGlyphs">and national awards</text>
+</svg>

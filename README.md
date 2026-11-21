@@ -39,12 +39,13 @@ Co-author of [**A Survey of Cross-Layer Security for Resource-Constrained IoT De
 <summary><h2>Education</h2></summary>
 
 **Eurasian National University** · Astana, Kazakhstan<br>
-Bachelor of Information Security Technologies · September 2018–July 2022
+Bachelor of Information Security Technologies
 
 </details>
 
+<a name="competitive-programming-international-and-national-awards"></a>
 <details>
-<summary><h2>Competitive programming international and national awards</h2></summary>
+<summary><picture><img align="middle" src="assets/awards-title/competitive.svg" alt="Competitive"></picture> <picture><img align="middle" src="assets/awards-title/programming-international.svg" alt="programming international"></picture> <picture><img align="middle" src="assets/awards-title/and-national-awards.svg" alt="and national awards"></picture></summary>
 
 | Competition | Years | Awards |
 | --- | --- | --- |
