@@ -43,10 +43,8 @@ Bachelor of Information Security Technologies · September 2018–July 2022
 
 </details>
 
-## Competitive programming awards
-
 <details>
-<summary>Awards in national and international informatics olympiads</summary>
+<summary><strong>Competitive programming international and national awards</strong></summary>
 
 | Competition | Years | Awards |
 | --- | --- | --- |
