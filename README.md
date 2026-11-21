@@ -3,53 +3,38 @@
   <img src="assets/header-motion.svg?v=ad569fe205b2" alt="Daniyar Kuttymbek — Software Engineer. Secure systems. Intelligent tools." width="100%">
 </picture>
 
-<p align="center">
-<a href="https://linkedin.com/in/danonika"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
-<a href="https://scholar.google.com/citations?user=Dwtw4AUAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-1769AA?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white"></a>
-<a href="https://doi.org/10.3390/app15179691"><img alt="Research" src="https://img.shields.io/badge/Research-6750A4?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white"></a>
-</p>
+I’m Daniyar, a software engineer with 5+ years of experience building Go services and security tools. I’ve built systems that estimate train arrival times from GPS readings and process telemetry from LoRaWAN devices over MQTT.
 
-I'm **Daniyar**, a **Software Engineer** with **5+ years of experience** in Go backends, distributed systems, and security automation. I build reliable services, practical security tools, and AI agent workflows that make complex work easier to inspect and verify.
+[LinkedIn](https://linkedin.com/in/danonika) · [Google Scholar](https://scholar.google.com/citations?user=Dwtw4AUAAAAJ)
 
-## What I'm building
+## Selected work
 
-### Hackathon Agent Kit
+- **Hackathon Agent Kit** is my current project. It gives coding agents tools to inspect a repository, plan changes, and run tests. The runtime is written in Go, exposes tools through MCP, and stores session history in SQLite. The source is private.
+- **Somnium** is a recruitment backend for job listings and applications. It exposes HTTP and gRPC APIs backed by PostgreSQL. [Source code](https://github.com/Danonika/somnium-hh-go)
+- **SAGE** is a GPU attestation research project. I contributed a C++ change that replaced a fixed seed in its checksum launcher with hardware-generated randomness. [Merged pull request](https://github.com/spcl/sage/pull/1)
 
-**One brief → deep research → working software → verified results.**
+## Research
 
-An agent toolkit designed to take a problem from its initial brief through research, implementation, and evaluation in one connected workflow. It also investigates existing projects: mapping architecture, tracing data flow, examining dependencies, and identifying risks before making changes.
-
-- **Research deeply:** investigate the domain, compare approaches, analyze documents and data, and ground decisions in sources.
-- **Build end to end:** turn the brief into a staged plan, coordinate coding workflows, and carry context between sessions.
-- **Verify and improve:** combine test gates, security checks, independent evaluation, and bounded improvement rounds.
-- **Stay in control:** local session history, reusable learnings, isolated Git worktrees, and reviewable evidence.
-
-**Go MCP runtime · 34 workflow skills · SQLite control plane**<br>
-Integrations: **Codex · Claude Code · OpenCode · Cursor**
-
-<sub>Actively developed. Source is currently private.</sub>
-
-## Security engineering & research
-
-My security work spans assessment automation, identity and authentication systems, network tooling, and security-aware infrastructure. I bring the same focus on reliability, observability, and verification to backend engineering.
-
-Co-author of [**A Survey of Cross-Layer Security for Resource-Constrained IoT Devices**](https://doi.org/10.3390/app15179691), published in *Applied Sciences* (2025).
+I co-authored *A Survey of Cross-Layer Security for Resource-Constrained IoT Devices*, published in *Applied Sciences* in 2025. [Read the paper](https://doi.org/10.3390/app15179691)
 
 ## Education
 
 **Eurasian National University** · Astana, Kazakhstan<br>
-Bachelor of Information Security Technologies · September 2018–July 2022 · GPA 3.5/4.0
+Bachelor’s degree in Information Security Technologies · September 2018–July 2022 · GPA 3.5/4.0
 
 ## Competitive programming awards
 
-| Competition | Years | Awards |
-| --- | --- | --- |
-| ICPC Northern Eurasian Finals | 2020–2023 | Honorable mention and third-degree award |
-| Zhautykov International Olympiad in Informatics | 2017 | 1 bronze medal |
-| Eurasian Olympiad in Informatics | 2015–2017 | 1 silver and 2 bronze medals |
-| Kazakh Republic Olympiad in Informatics | 2015–2018 | 1 gold, 2 silver, and 1 bronze medal |
+- **ICPC Northern Eurasian Finals** (2020–2023) — honorable mention and third-degree award.
+- **Kazakh Republic Olympiad in Informatics** (2015–2018) — one gold, two silver, and one bronze medal.
+- **Eurasian Olympiad in Informatics** (2015–2017) — one silver and two bronze medals.
+- **Zhautykov International Olympiad in Informatics** (2017) — bronze medal.
 
-## My toolbox
+## Technical skills
+
+Go, Python, SQL, PostgreSQL, Redis, Kafka, Docker, and Kubernetes.
+
+<details>
+<summary>Full toolbox</summary>
 
 <p>
 <strong>Programming languages</strong><br>
@@ -147,7 +132,9 @@ Bachelor of Information Security Technologies · September 2018–July 2022 · G
 <img alt="AI-assisted software development" src="https://img.shields.io/badge/AI--assisted%20Development-6750A4?style=flat-square">
 </p>
 
-## GitHub stats
+</details>
+
+## GitHub activity
 
 <!-- STATS:START -->
 <picture>
@@ -161,7 +148,3 @@ Bachelor of Information Security Technologies · September 2018–July 2022 · G
 
 <sub>Public + accessible private activity. Code changes cover authored, non-merge commits on default branches over the past 12 months. Updated daily. [How these stats are counted](assets/stats/README.md).</sub>
 <!-- STATS:END -->
-
----
-
-[Let's build something useful.](https://linkedin.com/in/danonika) · [Explore repositories](https://github.com/Danonika?tab=repositories)
