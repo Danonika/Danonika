@@ -36,14 +36,14 @@ My security work spans assessment automation, identity and authentication system
 Co-author of [**A Survey of Cross-Layer Security for Resource-Constrained IoT Devices**](https://doi.org/10.3390/app15179691), published in *Applied Sciences* (2025).
 
 <details id="education">
-<summary><picture><img align="middle" src="assets/education-title.svg" alt="Education"></picture></summary>
+<summary><picture><img align="middle" src="assets/education-title.svg?v=mona-600" alt="Education"></picture></summary>
 <div><picture><img align="right" src="assets/education-location.svg" alt="Astana, Kazakhstan"></picture><strong>Eurasian National University</strong><br clear="all">
 Bachelor of Information Security Technologies</div>
 </details>
 
 <a name="competitive-programming-international-and-national-awards"></a>
 <details>
-<summary><picture><img align="middle" src="assets/awards-title/competitive.svg" alt="Competitive"></picture> <picture><img align="middle" src="assets/awards-title/programming-international.svg" alt="programming international"></picture> <picture><img align="middle" src="assets/awards-title/and-national-awards.svg" alt="and national awards"></picture></summary>
+<summary><picture><img align="middle" src="assets/awards-title/competitive.svg?v=mona-600" alt="Competitive"></picture> <picture><img align="middle" src="assets/awards-title/programming-international.svg?v=mona-600" alt="programming international"></picture> <picture><img align="middle" src="assets/awards-title/and-national-awards.svg?v=mona-600" alt="and national awards"></picture></summary>
 
 | Competition | Years | Awards |
 | --- | --- | --- |
