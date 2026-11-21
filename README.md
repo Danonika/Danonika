@@ -50,9 +50,9 @@ Bachelor of Information Security Technologies · September 2018–July 2022
 
 | Competition | Years | Awards |
 | --- | --- | --- |
-| ICPC Northern Eurasian Finals | 2020–2023 | Honorable mention and third-degree award |
-| Kazakh Republic Olympiad in Informatics | 2015–2018 | 1 gold, 2 silver, 1 bronze |
-| Eurasian Olympiad in Informatics | 2015–2017 | 1 silver, 2 bronze |
+| ICPC Northern Eurasian Finals | 2020&#8209;2023 | Honorable mention and third-degree award |
+| Kazakh Republic Olympiad in Informatics | 2015&#8209;2018 | 1 gold, 2 silver, 1 bronze |
+| Eurasian Olympiad in Informatics | 2015&#8209;2017 | 1 silver, 2 bronze |
 | Zhautykov International Olympiad in Informatics | 2017 | 1 bronze |
 
 </details>
