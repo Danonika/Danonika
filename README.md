@@ -45,13 +45,17 @@ Bachelor of Information Security Technologies · September 2018–July 2022
 
 ## Competitive programming awards
 
-At the **ICPC Northern Eurasian Finals** (2020–2023), I earned an honorable mention and a third-degree award.
+<details>
+<summary>Awards in national and international informatics olympiads</summary>
 
-| Informatics olympiad | Years | Medals |
+| Competition | Years | Awards |
 | --- | --- | --- |
-| Kazakh Republic | 2015–2018 | 1 gold, 2 silver, 1 bronze |
-| Eurasian | 2015–2017 | 1 silver, 2 bronze |
-| Zhautykov International | 2017 | 1 bronze |
+| ICPC Northern Eurasian Finals | 2020–2023 | Honorable mention and third-degree award |
+| Kazakh Republic Olympiad in Informatics | 2015–2018 | 1 gold, 2 silver, 1 bronze |
+| Eurasian Olympiad in Informatics | 2015–2017 | 1 silver, 2 bronze |
+| Zhautykov International Olympiad in Informatics | 2017 | 1 bronze |
+
+</details>
 
 ## My toolbox
 
