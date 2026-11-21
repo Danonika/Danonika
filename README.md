@@ -37,7 +37,7 @@ Co-author of [**A Survey of Cross-Layer Security for Resource-Constrained IoT De
 
 <details id="education">
 <summary><picture><img align="middle" src="assets/education-title.svg" alt="Education"></picture></summary>
-<div><strong>Eurasian National University</strong> · Astana, Kazakhstan<br>
+<div><picture><img align="right" src="assets/education-location.svg" alt="Astana, Kazakhstan"></picture><strong>Eurasian National University</strong><br clear="all">
 Bachelor of Information Security Technologies</div>
 </details>
 

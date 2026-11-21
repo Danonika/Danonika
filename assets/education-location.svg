@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="21" viewBox="0 0 128 21">
+  <title>Astana, Kazakhstan</title>
+  <style>
+    text { fill: #1f2328; font: 400 14px system-ui, sans-serif; }
+    @media (prefers-color-scheme: dark) { text { fill: #f0f6fc; } }
+  </style>
+  <text x="128" y="15" text-anchor="end">Astana, Kazakhstan</text>
+</svg>
