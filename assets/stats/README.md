@@ -32,4 +32,4 @@ See [GitHub's Commit API reference](https://docs.github.com/en/graphql/reference
 
 The activity card uses GitHub Stats Extended through the pinned GitHub Readme Stats
 Action. It includes accessible private activity and all-time contributions.
-[Calendar artwork](../../calendar-art/README.md) is included in contribution totals.
+The total includes 94 decorative commits backdated to 2025.

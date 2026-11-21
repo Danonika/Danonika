@@ -35,6 +35,20 @@ My security work spans assessment automation, identity and authentication system
 
 Co-author of [**A Survey of Cross-Layer Security for Resource-Constrained IoT Devices**](https://doi.org/10.3390/app15179691), published in *Applied Sciences* (2025).
 
+## Education
+
+**Eurasian National University** · Astana, Kazakhstan<br>
+Bachelor of Information Security Technologies · September 2018–July 2022 · GPA 3.5/4.0
+
+## Competitive programming awards
+
+| Competition | Years | Awards |
+| --- | --- | --- |
+| ICPC Northern Eurasian Finals | 2020–2023 | Honorable mention and third-degree award |
+| Zhautykov International Olympiad in Informatics | 2017 | 1 bronze medal |
+| Eurasian Olympiad in Informatics | 2015–2017 | 1 silver and 2 bronze medals |
+| Kazakh Republic Olympiad in Informatics | 2015–2018 | 1 gold, 2 silver, and 1 bronze medal |
+
 ## My toolbox
 
 <p>
@@ -145,18 +159,9 @@ Co-author of [**A Survey of Cross-Layer Security for Resource-Constrained IoT De
   <img src="assets/stats/code-changes-compact-light.svg" alt="Lines added and deleted over the past 12 months in authored commits across accessible public and private repositories" width="480">
 </picture>
 
-<sub>Public + accessible private activity. Code changes cover authored, non-merge commits on default branches over the past 12 months. Updated daily. [How these stats are counted](assets/stats/README.md). [Calendar artwork](calendar-art/README.md) is included in contribution totals.</sub>
+<sub>Public + accessible private activity. Code changes cover authored, non-merge commits on default branches over the past 12 months. Updated daily. [How these stats are counted](assets/stats/README.md).</sub>
 <!-- STATS:END -->
-
-<details>
-<summary><b>Education & competitive programming</b></summary>
-
-- **BSc, Information Security Technologies** — Eurasian National University.
-- **ICPC Northern Eurasian Finals:** honorable mention and third-degree awards.
-- Medalist in national and international informatics olympiads.
-
-</details>
 
 ---
 
-[Let's build something useful.](https://linkedin.com/in/danonika) · [Explore repositories](https://github.com/Danonika?tab=repositories) · [2025 calendar art](https://github.com/Danonika?tab=overview&from=2025-01-01&to=2025-12-31)
+[Let's build something useful.](https://linkedin.com/in/danonika) · [Explore repositories](https://github.com/Danonika?tab=repositories)

@@ -21,7 +21,7 @@ block = '''<!-- STATS:START -->
   <img src="assets/stats/code-changes-compact-light.svg" alt="Lines added and deleted over the past 12 months in authored commits across accessible public and private repositories" width="480">
 </picture>
 
-<sub>Public + accessible private activity. Code changes cover authored, non-merge commits on default branches over the past 12 months. Updated daily. [How these stats are counted](assets/stats/README.md). [Calendar artwork](calendar-art/README.md) is included in contribution totals.</sub>
+<sub>Public + accessible private activity. Code changes cover authored, non-merge commits on default branches over the past 12 months. Updated daily. [How these stats are counted](assets/stats/README.md).</sub>
 <!-- STATS:END -->'''
 readme = Path('README.md')
 source = readme.read_text()
