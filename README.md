@@ -36,7 +36,7 @@ My security work spans assessment automation, identity and authentication system
 Co-author of [**A Survey of Cross-Layer Security for Resource-Constrained IoT Devices**](https://doi.org/10.3390/app15179691), published in *Applied Sciences* (2025).
 
 <details>
-<summary><strong>Education</strong></summary>
+<summary><h2>Education</h2></summary>
 
 **Eurasian National University** · Astana, Kazakhstan<br>
 Bachelor of Information Security Technologies · September 2018–July 2022
@@ -44,7 +44,7 @@ Bachelor of Information Security Technologies · September 2018–July 2022
 </details>
 
 <details>
-<summary><strong>Competitive programming international and national awards</strong></summary>
+<summary><h2>Competitive programming international and national awards</h2></summary>
 
 | Competition | Years | Awards |
 | --- | --- | --- |
